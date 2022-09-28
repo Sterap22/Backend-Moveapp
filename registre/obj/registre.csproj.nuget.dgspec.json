@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\registre\\registre.csproj": {}
+    "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\registre\\registre.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\registre\\registre.csproj": {
+    "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\registre\\registre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\registre\\registre.csproj",
+        "projectUniqueName": "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\registre\\registre.csproj",
         "projectName": "registre",
-        "projectPath": "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\registre\\registre.csproj",
+        "projectPath": "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\registre\\registre.csproj",
         "packagesPath": "C:\\Users\\Sterap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\registre\\obj\\",
+        "outputPath": "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\registre\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sterap\\AppData\\Roaming\\NuGet\\NuGet.Config",

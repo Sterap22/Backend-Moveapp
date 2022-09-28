@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\login\\login.csproj": {}
+    "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\login\\login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\login\\login.csproj": {
+    "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\login\\login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\login\\login.csproj",
+        "projectUniqueName": "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\login\\login.csproj",
         "projectName": "login",
-        "projectPath": "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\login\\login.csproj",
+        "projectPath": "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\login\\login.csproj",
         "packagesPath": "C:\\Users\\Sterap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sterap\\Documents\\app\\backend\\login\\login\\obj\\",
+        "outputPath": "C:\\Users\\Sterap\\Documents\\app\\backend\\Backend-Moveapp\\login\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sterap\\AppData\\Roaming\\NuGet\\NuGet.Config",
