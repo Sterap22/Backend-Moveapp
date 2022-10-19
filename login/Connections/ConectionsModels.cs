@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using login.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace login.Connections
 {
@@ -7,5 +8,6 @@ namespace login.Connections
         public ConectionsModels(DbContextOptions options) : base(options)
         {
         }
+        public DbSet<Usuario> usuario { get; set; }
     }
 }
